@@ -1,2 +1,3 @@
 ---
 # defaults file for jitsi
+ant_version: 1.9.4

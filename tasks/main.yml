@@ -1,2 +1,4 @@
 ---
 # tasks file for jitsi
+  - include: ant.yml
+  - include: x11.yml
