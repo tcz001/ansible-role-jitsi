@@ -2,4 +2,5 @@
 # Install the package "foo"
 - apt: name=x11-common state=present
 - apt: name=libxi6 state=present
+- apt: name=libxtst6 state=present
 - apt: name=libgconf-2-4 state=present
